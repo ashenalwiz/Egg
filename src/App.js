@@ -13,10 +13,10 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-orange-50 to-yellow-50 relative overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-5">
-        <div className="absolute top-10 left-10 w-32 h-32 bg-orange-300 rounded-full"></div>
-        <div className="absolute top-40 right-20 w-24 h-24 bg-yellow-300 rounded-full"></div>
-        <div className="absolute bottom-20 left-20 w-28 h-28 bg-orange-200 rounded-full"></div>
-        <div className="absolute bottom-40 right-10 w-20 h-20 bg-yellow-200 rounded-full"></div>
+        <div className="absolute top-10 left-10 w-32 h-32 bg-orange-900 rounded-full"></div>
+        <div className="absolute top-40 right-20 w-24 h-24 bg-yellow-900 rounded-full"></div>
+        <div className="absolute bottom-20 left-20 w-28 h-28 bg-orange-900 rounded-full"></div>
+        <div className="absolute bottom-40 right-10 w-20 h-20 bg-yellow-900 rounded-full"></div>
       </div>
       
       <div className="relative z-10">
