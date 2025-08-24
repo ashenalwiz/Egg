@@ -1,0 +1,13 @@
+{
+  "producer": {
+    "white": 24,
+    "red": 26
+  },
+  "retail": {
+    "white": 26,
+    "red": 28
+  },
+  "lastUpdated": "2025-01-15T10:30:00Z",
+  "updatedBy": "AIEPA Admin",
+  "week": "Week 3, 2025"
+}
