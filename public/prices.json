@@ -1,11 +1,11 @@
 {
   "producer": {
-    "white": 24,
-    "red": 26
+    "white": 29,
+    "red": 31
   },
   "retail": {
-    "white": 26,
-    "red": 28
+    "white": 32,
+    "red": 34
   },
   "lastUpdated": "2025-01-15T10:30:00Z",
   "updatedBy": "AIEPA Admin",
