@@ -14,7 +14,7 @@ const EggDisplay = ({ priceData, selectedView }) => {
         >
           <div className="absolute top-4 left-6 w-8 h-12 bg-white opacity-30 rounded-full transform -rotate-12"></div>
           <div className="text-center relative z-10">
-            <h3 className="text-lg md:text-xl font-bold text-gray-800 mb-2">White Egg</h3>
+            <h3 className="text-lg md:text-xl font-bold text-gray-800 mb-2">White</h3>
             <div className="text-2xl md:text-3xl font-bold text-black">
               Rs. {priceData[selectedView].white}
             </div>
@@ -33,7 +33,7 @@ const EggDisplay = ({ priceData, selectedView }) => {
         >
           <div className="absolute top-4 left-6 w-8 h-12 bg-white opacity-40 rounded-full transform -rotate-12"></div>
           <div className="text-center relative z-10">
-            <h3 className="text-lg md:text-xl font-bold text-gray-800 mb-2">Red Egg</h3>
+            <h3 className="text-lg md:text-xl font-bold text-gray-800 mb-2">Red</h3>
             <div className="text-2xl md:text-3xl font-bold text-black">
               Rs. {priceData[selectedView].red}
             </div>
