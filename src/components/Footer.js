@@ -44,7 +44,7 @@ const Footer = ({ priceData }) => {
       <footer className="mt-16 py-6 text-center">
         <div className="text-sm text-gray-500">
           <p>© 2025 All Island Egg Producers Association</p>
-          <p className="mt-1">www.aiepa.org.lk</p>
+          <p className="mt-1">www.aiepa.web.lk</p>
         </div>
       </footer>
     </>
