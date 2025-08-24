@@ -47,7 +47,7 @@ function App() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-orange-50 to-yellow-50 relative overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-orange-300 to-yellow-40 relative overflow-hidden">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-5">
         <div className="absolute top-10 left-10 w-32 h-32 bg-orange-300 rounded-full"></div>

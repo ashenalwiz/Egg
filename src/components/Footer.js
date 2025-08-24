@@ -26,13 +26,13 @@ const Footer = ({ priceData }) => {
         <div className="inline-block bg-white rounded-lg shadow-md px-6 py-3">
           <p className="text-sm md:text-base text-gray-600">
             Last updated: <span className="font-semibold text-gray-800">
-              {formatDate(priceData.lastUpdated)}
+              {formatDate(priceData?.lastUpdated)}
             </span> at{' '}
             <span className="font-semibold text-gray-800">
-              {formatTime(priceData.lastUpdated)}
+              {formatTime(priceData?.lastUpdated)}
             </span>
           </p>
-          {priceData.updatedBy && (
+          {priceData?.updatedBy && (
             <p className="text-xs text-gray-500 mt-1">
               Updated by: {priceData.updatedBy}
             </p>
